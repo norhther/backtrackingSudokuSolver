@@ -1,2 +1,2 @@
-# backtrackingSudokuSolver
-Implementation of a sudoku solver in modern cpp
+# Sudoku solver
+Easy implementation of a sudoku solver in modern cpp
