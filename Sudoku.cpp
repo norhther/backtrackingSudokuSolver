@@ -77,7 +77,6 @@ bool Sudoku::solve()
 
 std::ostream& operator<<(std::ostream& out, const Sudoku& c)
 {
-
     for (auto row : c.boardValues) {
         for (auto col : row) {
             out << col << " ";
